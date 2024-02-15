@@ -3,6 +3,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const heart = document.getElementById("heart");
     heart.addEventListener("click", function() {
-        alert("Você clicou no coração!");
+        alert("(/^-^(^ ^*)/ ♡
+              quando eu olhos para os seus olhos,eu vejo um céu estrelado, equando eu vejo o seu sorriso eu vejo o universo, porque é impossivel explicar tamanha perfeição!");
     });
 });
